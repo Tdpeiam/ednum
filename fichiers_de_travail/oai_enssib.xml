@@ -1,0 +1,3482 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+<responseDate>2016-11-08T08:08:39Z</responseDate>
+<request verb="ListRecords" metadataPrefix="oai_qdc" from="2006-01-01" until="2016-11-27" set="Collection-2:Collection-92">http://www.enssib.fr/bibliotheque-numerique/oai</request>
+<ListRecords>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66803</identifier>
+<datestamp>2016-09-16</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66803-histoires-ou-contes-du-temps-passe-charles-perrault.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bercegeay, Marie-Sophie</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les "Histoires ou Contes du temps passé" de Charles Perrault
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>Enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Charles Perrault</dc:subject>
+<dc:title>
+Histoires, ou Contes du temps passé, Charles Perrault
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66795</identifier>
+<datestamp>2016-09-15</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66795-les-animations-plurilingues-en-bibliotheque-jeunesse.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:creator>Lydie, Catelon</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur les animations plurilingues en bibliothèque jeunesse à destination, entre autre, des primo-arrivants.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>Enssib</dc:publisher>
+<dc:subject>animation en bibliothèque</dc:subject>
+<dc:subject>plurilinguisme</dc:subject>
+<dc:title>
+Animations plurilingues en bibliothèque jeunesse (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66791</identifier>
+<datestamp>2016-09-15</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-1:Theme-2</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66791-etat-des-lieux-et-perspectives-des-jeux-video-dans-les-bibliotheques-de-lecture-publique.pdf
+</dc:identifier>
+<dc:subject>Typologie des institutions</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Perreau, Sarah</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" dressant un état des lieux du contexte actuel des jeux vidéo dans le monde et en France, de leur place au sein des bibliothèques françaises et de l’avenir du jeu vidéo au sein des bibliothèques.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>Enssib</dc:publisher>
+<dc:subject>jeux vidéo</dc:subject>
+<dc:title>
+État des lieux et perspectives des jeux vidéo dans les bibliothèques de lecture publique
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66790</identifier>
+<datestamp>2016-09-15</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-7:Theme-8</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66790-analyse-du-role-d-une-bibliotheque-territoriale-dans-un-nouvel-etat-la-naissance-de-la-bibliotheque-municipale-de-turin.pdf
+</dc:identifier>
+<dc:subject>Histoire des bibliothèques</dc:subject>
+<dc:creator>Montano, Giovanna</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur l'histoire de la bibliothèque municipale de Turin.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>Enssib</dc:publisher>
+<dc:subject>Bibliothèque municipale de Turin</dc:subject>
+<dc:title>
+Analyse du rôle d’une bibliothèque territoriale dans un nouvel état : la naissance de la bibliothèque municipale de Turin
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66039</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1450</setSpec>
+<setSpec>Theme-10:Theme-13</setSpec>
+<setSpec>Theme-1:Theme-2</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66039-archives-ouvertes-de-la-connaissance-valoriser-et-diffuser-les-donnees-de-recherche.pdf
+</dc:identifier>
+<dc:subject>Science de l'information</dc:subject>
+<dc:subject>Typologie des institutions</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Rebouillat, Violaine</dc:creator>
+<dc:description>
+Rapport de stage du Master SIBIST, sciences de l’information et des bibliothèques et information scientifique et technique portant sur les archives ouvertes de la Connaissance.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>
+Université de Lyon - Université Lyon 1 Claude Bernard
+</dc:publisher>
+<dc:subject>archives ouvertes</dc:subject>
+<dc:subject>données de la recherche</dc:subject>
+<dc:title>
+Archives Ouvertes de la Connaissance. Valoriser et diffuser les données de recherche
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66038</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66038-entre-jeu-et-magie-une-litterature-ludique.pdf
+</dc:identifier>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Sanchez, Caroline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image étudiant les relations entre livres de jeux et livres de magie du XVIIe au XIXe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>jeu</dc:subject>
+<dc:subject>magie</dc:subject>
+<dc:subject>tarots</dc:subject>
+<dc:title>Entre jeu et magie, une littérature ludique</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66037</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-7:Theme-8</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66037-les-bibliothecaires-de-la-revolution-francaise-au-milieu-du-xixe-siecle-l-exemple-des-villes-d-angers-nantes-et-rennes.pdf
+</dc:identifier>
+<dc:subject>Histoire des bibliothèques</dc:subject>
+<dc:creator>Vicet, Sidonie</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l'histoire des bibliothécaires de la Révolution française au milieu du 19e siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>histoire des bibliothèques</dc:subject>
+<dc:subject>Révolution française (1789)</dc:subject>
+<dc:title>
+Bibliothécaires, de la Révolution française au milieu du XIXe siècle : l'exemple des villes d'Angers, Nantes et Rennes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66036</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66036-censure-et-propagande-du-progres-et-du-salut-public-en-1916.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Pinonos, Aurore</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la censure et la propagande exercées par Le Progrès et Le Salut Public, deux des huit grands quotidiens lyonnais en 1916.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>censure</dc:subject>
+<dc:subject>Lyon</dc:subject>
+<dc:subject>presse</dc:subject>
+<dc:subject>propagande</dc:subject>
+<dc:title>
+Censure et Propagande du Progrès et du Salut Public en 1916
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66035</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66035-la-reconnaissance-et-la-legitimation-de-la-jeune-republique-tchecoslovaque-vues-par-les-manuels-scolaires-de-l-epoque.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Gromesova, Martina</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la reconnaissance et la légitimation de la République Tchècoslovaque vues par les manuels scolaires.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>manuels scolaires</dc:subject>
+<dc:subject>République Tchècoslovaque</dc:subject>
+<dc:title>
+Reconnaissance et la légitimation de la jeune République Tchécoslovaque, vues par les manuels scolaires de l’époque (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66034</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66034-les-communautes-web-francophones-le-cas-de-j-r-r-tolkien-annexes.xlsx
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Coureau, Gaël</dc:creator>
+<dc:description>
+Annexes sous la forme d'un questionnaire d'enquête du mémoire du Mémoire du Master Archives numériques portant sur la communauté web francophone de Tolkien, les liens entre ses membres, leurs créations et leurs rapports à l’auteur.
+</dc:description>
+<dc:format>
+application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:66033</dcterms:isPartOf>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>communauté web</dc:subject>
+<dc:subject>communautés de fans</dc:subject>
+<dc:subject>Tolkien</dc:subject>
+<dc:subject>web mapping</dc:subject>
+<dc:title>
+Communautés web francophones : le cas de J.R.R. Tolkien -annexes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66033</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66033-les-communautes-web-francophones-le-cas-de-j-r-r-tolkien.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Coureau, Gaël</dc:creator>
+<dc:description>
+Mémoire du Master Archives numériques portant sur la communauté web francophone de Tolkien, les liens entre ses membres, leurs créations et leurs rapports à l’auteur.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>communauté web</dc:subject>
+<dc:subject>communautés de fans</dc:subject>
+<dc:subject>Tolkien</dc:subject>
+<dc:subject>web mapping</dc:subject>
+<dc:title>
+Communautés web francophones : le cas de J.R.R. Tolkien (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66032</identifier>
+<datestamp>2016-04-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-22:Theme-26</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66032-la-diplomatique-et-les-arts-numeriques.pdf
+</dc:identifier>
+<dc:subject>Evaluation</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Crublet, Camille</dc:creator>
+<dc:description>
+Mémoire du Master Archives numériques portant sur les oeuvres d'art numérique et la diplomatique comme méthode possible d'authentification suite aux recherches du groupe InterPARES.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>authentification des oeuvres d'art</dc:subject>
+<dc:subject>oeuvres d'art numériques</dc:subject>
+<dc:title>Diplomatique et les arts numériques (La)</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66008</identifier>
+<datestamp>2016-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66008-le-crowdsourcing-applique-aux-archives-numeriques-concepts-pratiques-et-enjeux.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Neroulidis, Ariane</dc:creator>
+<dc:description>
+Mémoire du Master Archives numériques portant sur l'enrichissement des fonds d'archives grâce au crowdsourcing.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>archives numériques</dc:subject>
+<dc:subject>crowdsourcing</dc:subject>
+<dc:subject>web participatif</dc:subject>
+<dc:title>
+Crowdsourcing appliqué aux archives numériques : concepts, pratiques et enjeux (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:66007</identifier>
+<datestamp>2016-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-10:Theme-12</setSpec>
+<setSpec>Theme-1:Theme-2</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/66007-les-enjeux-de-la-patrimonialisation-et-de-la-reutilisation-des-donnees-qualitatives-de-la-recherche-en-sciences-humaines-et-sociales.pdf
+</dc:identifier>
+<dc:subject>Aspects juridiques</dc:subject>
+<dc:subject>Typologie des institutions</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Fayet Montagne, Camille</dc:creator>
+<dc:description>
+Mémoire du Master Archives numériques portant sur les enjeux de l'archivage, du partage et de la réutilisation des données qualitatives des sciences humaines et sociales.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>archivage numérique</dc:subject>
+<dc:subject>données de la recherche</dc:subject>
+<dc:title>
+Enjeux de la patrimonialisation et de la réutilisation des données qualitatives de la recherche en Sciences humaines et sociales (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65992</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65992-thibaud-payen-imprimeur-lyonnais-du-xvie-siecle-les-premieres-annees-1530-1545.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Perrier, Morgane</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur Thibaud Payen, un imprimeur lyonnais du seizième siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Histoire de l'imprimerie</dc:subject>
+<dc:title>
+Thibaud Payen, imprimeur lyonnais du XVIe siècle, les premières années : 1530-1545
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65991</identifier>
+<datestamp>2016-03-17</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65991-la-collection-des-voyages-imaginaires-songes-visions-et-romans-cabalistiques-1787-1789-par-charles-georges-thomas-garnier.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Nègre, Sarah</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la collection de romans Voyages imaginaires, songes, visions et romans cabalistiques éditée par Charles-Georges-Thomas Garnier de 1787 à 1789.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Histoire de l'édition</dc:subject>
+<dc:subject>histoire du livre</dc:subject>
+<dc:subject>littérature</dc:subject>
+<dcterms:temporal>XVIIIe siècle</dcterms:temporal>
+<dc:title>
+Collection des Voyages imaginaires, songes, visions, et romans cabalistiques (1787-1789), par Charles-Georges-Thomas Garnier (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65843</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65843-illustrer-les-grandes-chroniques-de-france-vers-1400-le-manuscrit-palais-des-arts-30-de-la-bibliotheque-municipale-de-lyon-tome-2-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Gosciniak, Coline</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l’étude codicologique du manuscrit Palais des Arts 30 de la bibliothèque municipale de Lyon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65842</dcterms:isPartOf>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>manuscrit médiéval</dc:subject>
+<dc:title>
+Illustrer les Grandes Chroniques de France vers 1400 : le manuscrit Palais des Arts 30 de la Bibliothèque municipale de Lyon (Tome 2 : annexes)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65842</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65842-illustrer-les-grandes-chroniques-de-france-vers-1400-le-manuscrit-palais-des-arts-30-de-la-bibliotheque-municipale-de-lyon.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Gosciniak, Coline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l’étude codicologique du manuscrit Palais des Arts 30 de la bibliothèque municipale de Lyon
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>manuscrit médiéval</dc:subject>
+<dc:title>
+Illustrer les Grandes Chroniques de France vers 1400 : le manuscrit Palais des Arts 30 de la Bibliothèque municipale de Lyon
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65841</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65841-le-tour-de-la-france-par-deux-enfants-1957-1958-une-experience-pour-la-television-francaise.pdf
+</dc:identifier>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Garin, Aline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur "Le Tour de la France par deux enfants", un feuilleton télévisé réalisé en 1957-1958 par William Magnin et adapté par Claude Santelli d’après le célèbre manuel scolaire de la IIIe République, "Le Tour de la France par deux enfants" de G. Bruno (1877).
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>adaptations télévisuelles</dc:subject>
+<dc:title>
+Tour de la France par deux enfants (1957-1958) : une expérience pour la télévision française (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65840</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-43</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65840-marie-paillon-vue-a-travers-ses-ecrits-et-ses-papiers-personnels-une-bourgeoise-alpiniste-et-feministe-francaise-1848-1946.pdf
+</dc:identifier>
+<dc:subject>Documents écrits</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Garriguenc, Alexandra</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur Marie Paillon, une figure importante de l'alpinisme féminin et de la littérature alpine à la fin du XIXe siècle et au début du XXe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>alpinisme</dc:subject>
+<dc:subject>Marie Paillon</dc:subject>
+<dc:title>
+Marie Paillon, vue à travers ses écrits et ses papiers personnels : une bourgeoise alpiniste et féministe française (1848-1946)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65838</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65838-les-editions-francaises-et-allochtones-de-l-instruction-pour-les-jardins-fruitiers-et-potagers-de-jean-baptiste-de-la-quintinie-2.pdf
+</dc:identifier>
+<dc:creator>Blanchard, Fanny</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les éditions françaises et allochtones de l'Instruction pour les jardins fruitiers et potagers de Jean-Baptiste de La Quintinie.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65837</dcterms:isPartOf>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Jean-Baptiste de La Quintinie</dc:subject>
+<dc:title>
+éditions françaises et allochtones de l'Instruction pour les jardins fruitiers et potagers de Jean-Baptiste de La Quintinie (2) (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65837</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65837-les-editions-francaises-et-allochtones-de-l-instruction-pour-les-jardins-fruitiers-et-potagers-de-jean-baptiste-de-la-quintinie-1.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Blanchard, Fanny</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les éditions françaises et allochtones de l'Instruction pour les jardins fruitiers et potagers de Jean-Baptiste de La Quintinie.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Jean-Baptiste de La Quintinie</dc:subject>
+<dc:title>
+éditions françaises et allochtones de l'Instruction pour les jardins fruitiers et potagers de Jean-Baptiste de La Quintinie (1) (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65836</identifier>
+<datestamp>2016-03-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65836-jean-joseph-vade-un-auteur-poissard.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Brun, Sandrine</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur le genre poissard, un genre littéraire développé par Jean-Joseph Vadé au dix-huitième siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2015-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>genre poissard</dc:subject>
+<dc:subject>Jean-Joseph Vadé</dc:subject>
+<dc:title>Jean-Joseph Vadé, un auteur poissard.</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65283</identifier>
+<datestamp>2015-06-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65283-les-batailles-entre-chretiens-et-ottomans-dans-la-mediterranee-du-xvie-siecle-annexes.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Courdier, Zoé</dc:creator>
+<dc:description>
+Annexes du mémoire de Master 1 Cultures de l'écrit et de l'image portant sur la production, la diffusion et les contenus des représentations des batailles entre chrétiens et Ottomans dans la Méditerranée du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64693</dcterms:isPartOf>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Batailles entre Chrétiens et Ottomans dans la Mediterranée du XVIe siècle - Annexes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65233</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65233-kateri-tekakwitha-la-memoire-d-une-kateri-tekakwitha.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Jurado, Caroline</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur Kateri Tekakwitha, sainte amérindienne.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>instrumentalisation de la mémoire</dc:subject>
+<dc:subject>Jésuites</dc:subject>
+<dc:subject>Kateri Tekakwitha</dc:subject>
+<dc:title>
+Kateri Tekakwitha - La mémoire d’une Kateri Tekakwitha
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65232</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65232-les-femmes-musiciennes-aux-xiie-xiiie-siecles-le-cas-des-trobairitz.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Brun, Sandrine</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les trobairitz, pendants féminins des troubadours apparus au XIIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Chansonniers provençaux</dc:subject>
+<dc:subject>Trobairitz</dc:subject>
+<dc:subject>troubadours</dc:subject>
+<dc:title>
+Femmes musiciennes aux XIIe- XIIIe siècles : le cas des trobairitz (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65231</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-43</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65231-la-dimension-sociale-et-politique-de-la-litterature-de-jeunesse-a-travers-l-exemple-de-la-trilogie-hunger-games-de-suzanne-collins.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Documents écrits</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Lefebvre, Hermine</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les particularités de la trilogie Hunger Games écrite par Suzanne Collins, en replaçant cette oeuvre dans le contexte historique de la littérature de jeunesse, puis en détaillant le monde créé par l’auteur.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Dystopie</dc:subject>
+<dc:subject>Hunger Games</dc:subject>
+<dc:subject>Littérature adolescente</dc:subject>
+<dc:title>
+Dimension sociale et politique de la littérature de jeunesse à travers l’exemple de la trilogie Hunger Games de Suzanne Collins (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65230</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65230-les-documentaires-de-jean-paul-janssen-esthetique-et-mediatisation-de-l-escalade-de-patrick-edlinger.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Turpin-Hutter, Anne</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur documentaires de Jean-Paul Janssen, esthétique et médiatisation de l’escalade de Patrick Edlinger.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>cinéma</dc:subject>
+<dc:subject>escalade</dc:subject>
+<dc:subject>Jean-Paul Janssen</dc:subject>
+<dc:subject>Patrick Edlinger</dc:subject>
+<dc:title>
+Documentaires de Jean-Paul Janssen, esthétique et médiatisation de l’escalade de Patrick Edlinger (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65229</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65229-la-vierge-marie-dans-l-imprimerie-lyonnaise-1650-1750.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Desrues, Clémence</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la Vierge Marie dans l’imprimerie lyonnaise entre 1650 et 1750.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dcterms:spatial>Lyon</dcterms:spatial>
+<dc:subject>imprimerie lyonnaise</dc:subject>
+<dc:subject>Vierge Marie</dc:subject>
+<dcterms:temporal>XVII et XVIIIe siècles</dcterms:temporal>
+<dc:title>
+Vierge Marie dans l’imprimerie lyonnaise (1650-1750) (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65228</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65228-raconter-les-camisards-essai-d-historiographie-1702-2014-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Jasserand, Mickaël</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image étudiant les différents ouvrages et auteurs ayant écrit sur les Camisards entre 1702 et 2014 afin de comprendre l'évolution de l'historiographie des Camisards.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65227</dcterms:isPartOf>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:title>
+Raconter les Camisards : essai d'historiographie (1702-2014) - Annexes
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65227</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65227-raconter-les-camisards-essai-d-historiographie-1702-2014.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Jasserand, Mickaël</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image étudiant les différents ouvrages et auteurs ayant écrit sur les Camisards entre 1702 et 2014 afin de comprendre l'évolution de l'historiographie des Camisards.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Camisard</dc:subject>
+<dc:subject>Historiographie</dc:subject>
+<dc:subject>Protestantisme</dc:subject>
+<dc:title>
+Raconter les Camisards : essai d'historiographie (1702-2014)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65225</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65225-la-typographie-musicale-des-missels-lyonnais-du-xve-siecle-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Deleuze, Marion</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la typographie musicale des missels lyonnais du XVe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65224</dcterms:isPartOf>
+<dcterms:issued>2014-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Typographie musicale des missels lyonnais du XVe siècle - Annexes (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65224</identifier>
+<datestamp>2015-04-23</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65224-la-typographie-musicale-des-missels-lyonnais-du-xve-siecle.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Deleuze, Marion</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la typographie musicale des missels lyonnais du XVe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>missel</dc:subject>
+<dc:subject>Musique</dc:subject>
+<dc:subject>plain-chant</dc:subject>
+<dcterms:temporal>XVe siècle</dcterms:temporal>
+<dc:title>
+Typographie musicale des missels lyonnais du XVe siècle (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65219</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65219-un-travail-de-compilation-sur-les-superstitions-populaires-des-xviie-et-xviiie-siecles-l-histoire-des-imaginations-extravagantes-de-monsieur-oufle-par-l-abbe-laurent-bordelon.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Nègre, Sarah</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur sur les superstitions populaires des XVIIe et XVIIIe siècles à travers l'ouvrage de l'abbé Laurent Bordelon "L’histoire des imaginations extravagantes de Monsieur Oufle."
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Généalogie des savoirs</dc:subject>
+<dc:subject>Histoire des mentalités</dc:subject>
+<dc:subject>Superstitions populaires</dc:subject>
+<dcterms:temporal>XVIe siècle et XVIIe siècles</dcterms:temporal>
+<dc:title>
+Un travail de compilation sur les superstitions populaires des XVIIe et XVIIIe siècles : L’histoire des imaginations extravagantes de Monsieur Oufle, par l’abbé Laurent Bordelon.
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65218</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65218-les-lectures-des-theologiens-moralistes-a-la-fin-du-xvie-siecle-jean-benedicti-francisco-de-toledo-gregory-sayer-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Humeau, Lucie</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur lectures des théologiens moralistes à la fin du XVIe siècle (Jean Benedicti, Francisco de Toledo, Gregory Sayer).
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65217</dcterms:isPartOf>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dcterms:temporal>XVIe siècle</dcterms:temporal>
+<dc:title>
+Lectures des théologiens moralistes à la fin du XVIe siècle (Jean Benedicti, Francisco de Toledo, Gregory Sayer) - Annexes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65217</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65217-les-lectures-des-theologiens-moralistes-a-la-fin-du-xvie-siecle-jean-benedicti-francisco-de-toledo-gregory-sayer.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Humeau, Lucie</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur lectures des théologiens moralistes à la fin du XVIe siècle (Jean Benedicti, Francisco de Toledo, Gregory Sayer).
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>casuistique</dc:subject>
+<dc:subject>manuel de confession</dc:subject>
+<dcterms:temporal>XVIe siècle</dcterms:temporal>
+<dc:title>
+Lectures des théologiens moralistes à la fin du XVIe siècle (Jean Benedicti, Francisco de Toledo, Gregory Sayer) (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65216</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65216-les-bibliotheques-des-couvents-de-femmes-a-la-revolution-d-apres-l-enquete-nationale-de-1790-1791-entre-tradition-et-influences.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Merat, Alix</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les bibliothèques des couvents de femmes à la Révolution d’après l’enquête nationale de 1790-1791.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Bibliothèques des couvents de femmes à la Révolution d’après l’enquête nationale de 1790-1791 : entre tradition et influences (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65215</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65215-mace-bonhomme-un-editeur-de-son-temps-recherches-complementaires-pour-faire-suite-a-mace-bonhomme-un-imprimeur-lyonnais-du-xvie-siecle.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Huguet, Emeline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur Macé Bonhomme, un imprimeur mais également un éditeur-libraire du XVIe siècle lyonnais.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Macé Bonhomme, un éditeur de son temps ? Recherches complémentaires pour faire suite à « Macé Bonhomme, un imprimeur lyonnais du XVIe siècle »
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65214</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65214-les-editions-d-aristote-a-lyon-dans-la-seconde-moitie-du-xvie-siecle-chroniques-d-un-declin-annonce.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Silvestre, Coline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les éditions d’Aristote à Lyon dans la seconde moitié du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Éditions d’Aristote à Lyon dans la seconde moitié du XVIe siècle : chroniques d’un déclin annoncé ? (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65213</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65213-quand-les-visitandines-prennent-la-plume-ecrit-et-ecritures-au-sein-de-la-visitation-sous-l-ancien-regime-parcours-a-travers-les-sources-lyonnaises-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Pinçon, Juliette</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la place de l'écrit dans l'univers monastique.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65212</dcterms:isPartOf>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:title>
+Quand les Visitandines prennent la plume...Écrit et écritures au sein de la Visitation sous l’Ancien Régime : parcours à travers les sources lyonnaises - Annexes
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65212</identifier>
+<datestamp>2015-04-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65212-quand-les-visitandines-prennent-la-plume-ecrit-et-ecritures-au-sein-de-la-visitation-sous-l-ancien-regime-parcours-a-travers-les-sources-lyonnaises.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Pinçon, Juliette</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la place de l'écrit dans l'univers monastique.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Ancien Régime</dc:subject>
+<dc:subject>pratiques d'écriture</dc:subject>
+<dc:subject>Visitation</dc:subject>
+<dc:title>
+Quand les Visitandines prennent la plume...Écrit et écritures au sein de la Visitation sous l’Ancien Régime : parcours à travers les sources lyonnaises
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65190</identifier>
+<datestamp>2015-03-30</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65190-le-web-comme-espace-de-reconstruction-de-l-ecrivain-le-cas-louis-ferdinand-celine.pdf
+</dc:identifier>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Mauvais-Goni, Léa</dc:creator>
+<dc:description>
+Mémoire de Master Archives numériques portant sur la diffusion et la valorisation sur le web des archives de Louis-Ferdinand Céline.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>Archives audiovisuelles et sonores</dc:subject>
+<dc:subject>censure</dc:subject>
+<dc:subject>Louis-Ferdinand Céline</dc:subject>
+<dc:subject>Web 2.0</dc:subject>
+<dc:title>
+Web comme espace de reconstruction de l'écrivain : le cas Louis-Ferdinand Céline (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65035</identifier>
+<datestamp>2015-02-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1450</setSpec>
+<setSpec>Theme-10:Theme-13</setSpec>
+<setSpec>Theme-10:Theme-14</setSpec>
+<setSpec>Theme-27:Theme-28</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65035-optimisation-des-outils-de-veille-dans-une-cellule-informationnelle-pour-la-promotion-d-une-metropole.pdf
+</dc:identifier>
+<dc:subject>Science de l'information</dc:subject>
+<dc:subject>Economie de l'information</dc:subject>
+<dc:subject>Outils de recherche documentaire</dc:subject>
+<dc:creator>Sidoummou, Souhila</dc:creator>
+<dc:description>
+Mémoire de stage du Master SIBIST, sciences de l’information et des bibliothèques et information scientifique et technique effectué dans une agence de développement économique, dont l'objectif était d'analyser les pratiques d’une cellule informationnelle et d'apporter des préconisations pour son amélioration.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>
+Université de Lyon - Université Lyon 1 Claude Bernard
+</dc:publisher>
+<dc:subject>Gestion de l’information</dc:subject>
+<dc:subject>Intelligence économique</dc:subject>
+<dc:subject>Veille stratégique</dc:subject>
+<dc:title>
+Optimisation des outils de veille dans une cellule informationnelle, pour la promotion d’une métropole
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65034</identifier>
+<datestamp>2015-02-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1450</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65034-organiser-valoriser-et-perenniser-une-documentation-a-partir-d-un-fonds-existant-en-prenant-en-compte-les-contraintes-d-un-service-et-de-la-collectivite.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Mahé, Lucie</dc:creator>
+<dc:description>
+Mémoire de stage du Master SIBIST, sciences de l’information et des bibliothèques et information scientifique et technique effectué à l’Espace Associatif du Rhône et dont l'objectif était de repenser la valorisation des ressources consultables à distance pour attirer de nouveaux publics.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>
+Université de Lyon - Université Lyon 1 Claude Bernard
+</dc:publisher>
+<dc:subject>association</dc:subject>
+<dc:subject>centre de documentation spécialisé</dc:subject>
+<dc:title>
+Organiser, valoriser et pérenniser une documentation à partir d’un fonds existant, en prenant en compte les contraintes d’un service et de la collectivité
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65033</identifier>
+<datestamp>2015-02-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1450</setSpec>
+<setSpec>Theme-27:Theme-28</setSpec>
+<setSpec>Theme-27:Theme-32</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65033-valorisation-de-l-activite-de-veille-d-un-service-de-documentation-au-sein-d-un-laboratoire-pharmaceutique.pdf
+</dc:identifier>
+<dc:subject>Outils de recherche documentaire</dc:subject>
+<dc:subject>Informatique documentaire</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:creator>Hung Kung Sow, Daphné</dc:creator>
+<dc:description>
+Mémoire du Master 2 SIBIST, sciences de l’information et des bibliothèques et information scientifique et technique portant sur Valorisation de l’activité de veille d’un service de Documentation au sein d’un laboratoire pharmaceutique.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>
+Université de Lyon - Université Lyon 1 Claude Bernard
+</dc:publisher>
+<dc:subject>documentation scientifique et médicale</dc:subject>
+<dc:subject>Laboratoires pharmaceutiques</dc:subject>
+<dc:subject>Veille scientifique</dc:subject>
+<dc:title>
+Valorisation de l’activité de veille d’un service de Documentation au sein d’un laboratoire pharmaceutique
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65031</identifier>
+<datestamp>2015-02-06</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1450</setSpec>
+<setSpec>Theme-10:Theme-13</setSpec>
+<setSpec>Theme-1:Theme-2</setSpec>
+<setSpec>Theme-27:Theme-28</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65031-gerer-et-capitaliser-l-information-pour-valoriser-la-recherche-scientifique.pdf
+</dc:identifier>
+<dc:subject>Science de l'information</dc:subject>
+<dc:subject>Typologie des institutions</dc:subject>
+<dc:subject>Outils de recherche documentaire</dc:subject>
+<dc:creator>Legras, Eva</dc:creator>
+<dc:description>
+Rapport de stage du Master SIBIST, sciences de l’information et des bibliothèques et information scientifique et technique effectué à l’Institut de recherche pour le développement (IRD) et portant sur l'expertise collégiale.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>
+Université de Lyon - Université Lyon 1 Claude Bernard
+</dc:publisher>
+<dc:subject>Expertise scientifique</dc:subject>
+<dc:subject>Valorisation de la recherche</dc:subject>
+<dc:subject>Veille scientifique</dc:subject>
+<dc:subject>Veille stratégique</dc:subject>
+<dc:title>
+Gérer et capitaliser l’information pour valoriser la recherche scientifique
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65030</identifier>
+<datestamp>2015-02-06</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65030-la-bibliotheque-vivante.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:creator>Dumaine, Mathilde</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur l'initiative des bibliothèques vivantes.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>«Bibliothèque vivante» (La)</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65028</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-17:Theme-19</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-7:Theme-8</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65028-regards-sur-le-public-a-travers-les-manuels-de-formation-des-bibliothecaires-18301940.pdf
+</dc:identifier>
+<dc:subject>Formations</dc:subject>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Histoire des bibliothèques</dc:subject>
+<dc:creator>Arros, Julie</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur les manuels de formation des bibliothécaires de 1830 à 1940 et plus particulièrement sur la manière dont on concevait le public des bibliothèques durant cette période.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+Regards sur le public à travers les manuels de formation des bibliothécaires, 1830–1940
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65027</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-17:Theme-19</setSpec>
+<setSpec>Theme-27</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65027-la-place-du-reference-librarian-en-france-entre-polyvalence-et-specialisation.pdf
+</dc:identifier>
+<dc:subject>Formations</dc:subject>
+<dc:subject>Traitement de l'information</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:creator>Étesse, Cécile</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur la place du "reference librarian" en France.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>Compétence disciplinaire</dc:subject>
+<dc:subject>Reference librarian</dc:subject>
+<dc:subject>Services de référence</dc:subject>
+<dc:title>
+Place du « reference librarian » en France : entre polyvalence et spécialisation (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65022</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65022-action-culturelle-en-bibliotheque-et-participation-des-populations.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:creator>Peotta, Marine</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur la participation des populations à l'action culturelle en bibliothèque.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+Action culturelle en bibliothèque et participation des populations
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65016</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-17:Theme-19</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65016-reseaux-sociaux-en-bibliotheques-evolution-d-une-profession-evolution-des-formations.pdf
+</dc:identifier>
+<dc:subject>Formations</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Mingat, Aude</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur les réseaux sociaux et leur impact sur l'évolution du métier de bibliothécaire.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+Réseaux sociaux en bibliothèques : évolution d'une profession, évolution des formations
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65013</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-34:Theme-40</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65013-l-histoire-de-l-immigration-dans-les-institutions-culturelles-et-patrimoniales-une-ouverture-sur-de-nouvelles-pratiques.pdf
+</dc:identifier>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Sociologie des publics</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Roskams, Léonore</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur la valorisation du patrimoine de l'immigration.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+Histoire de l'immigration dans les institutions culturelles et patrimoniales, une ouverture sur de nouvelles pratiques ?(L')
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65012</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-41:Theme-42</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65012-la-bd-exposee-quelle-place-pour-l-exposition-de-bande-dessinee-en-bibiotheque-municipale.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Politique documentaire</dc:subject>
+<dc:creator>Franc, Sarah</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" étudiant, dans une perspective historique, la pratique d'exposition de BD en bibliothèque municipale.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+BD exposée : quelle place pour l'exposition de bande-dessinée en bibiothèque municipale ? (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65011</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65011-nicolas-edme-retif-de-la-bretonne-imprimeur-1734-1806.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Blanchard, Fanny</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur Rétif de La Bretonne, imprimeur.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Imprimerie au XVIIIe siècle</dc:subject>
+<dcterms:temporal>XVIIIe siècle</dcterms:temporal>
+<dc:title>
+Nicolas-Edme Rétif de La Bretonne imprimeur (1734-1806)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65010</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65010-saint-dominique-et-les-dominicains-dans-les-sermons-d-eudes-de-chateauroux-1190-1273-ii.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>de Courrèges d'Agnos, Constance</dc:creator>
+<dc:description>Annexes du mémoire.</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:65009</dcterms:isPartOf>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Saint Dominique et les Dominicains dans les sermons d'Eudes de Châteauroux (1190?-1273) (II)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65009</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65009-saint-dominique-et-les-dominicains-dans-les-sermons-du-cardinal-eudes-de-chateauroux-1190-1273-i.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>de Courrèges d'Agnos, Constance</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur Saint Dominique et les Dominicains dans les sermons du cardinal Eudes de Châteauroux (1190?-1273).
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Eudes de Châteauroux</dc:subject>
+<dc:subject>Ordre des Frères prêcheurs</dc:subject>
+<dc:subject>Saint Dominique</dc:subject>
+<dc:title>
+Saint Dominique et les Dominicains dans les sermons du cardinal Eudes de Châteauroux (1190?-1273) (I)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65008</identifier>
+<datestamp>2015-02-04</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1446</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-38</setSpec>
+<setSpec>Theme-41:Theme-42</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65008-paralitteratures-en-bibliotheque-a-l-heure-du-numerique-le-cas-des-litteratures-de-l-imaginaire-et-du-roman-policier-quels-roles-et-moyens-pour-la-lecture-publique-aujourd-hui.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Services au public</dc:subject>
+<dc:subject>Politique documentaire</dc:subject>
+<dc:creator>Crozier, Clémence</dc:creator>
+<dc:description>
+Mémoire du Master "Politique des bibliothèques et de la documentation" portant sur la place et la valorisation en bibliothèque des littératures de l'imaginaire (science-fiction, fantasy, fantastique) et des romans policiers.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:title>
+Paralittératures en bibliothèque à l’heure du numérique: le cas des «littératures de l’imaginaire» et du roman policier. Quels rôles et moyens pour la lecture publique aujourd’hui ?
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:65005</identifier>
+<datestamp>2015-01-30</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1444</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-27:Theme-31</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/65005-types-strategies-et-enjeux-des-nouveaux-supports-de-l-information.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Systèmes classificatoires</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Mercier-Guyon, Perrine</dc:creator>
+<dc:description>
+Mémoire de Master Archives numériques portant sur les technologies numériques de sauvegarde permettant l'archivage d’importantes quantités d’informations et sur l'évolution des stratégies archivistiques.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>archivage numérique</dc:subject>
+<dc:title>
+Types, Stratégies et Enjeux des nouveaux supports de l'information
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64961</identifier>
+<datestamp>2015-01-16</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64961-la-disputa-de-l-ase-d-anselm-turmeda-histoire-du-texte.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Renedo Mirambell, Claire</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur l'histoire du texte intitulé "La Disputa de l’ase", une oeuvre catalane médiévale qui adopte la forme d’une discussion entre un frère et un âne au sujet de la supériorité de l’homme face aux animaux.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>littérature catalane médiévale</dc:subject>
+<dc:title>
+Disputa de l’ase d’Anselm Turmeda : histoire du texte (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64960</identifier>
+<datestamp>2015-01-16</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64960-les-livres-de-jeux-aux-xviie-et-xviiie-siecles-une-typologie-des-lecteurs-joueurs.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Sanchez, Caroline</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur l'âge d'or au XVIIe et XVIIIe siècles des livres de règles de jeux.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>jeu</dc:subject>
+<dc:title>
+Livres de jeux aux XVIIe et XVIIIe siècles : une typologie des lecteurs-joueurs (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64959</identifier>
+<datestamp>2015-01-16</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64959-le-dictionnaire-des-heresies-des-erreurs-et-des-schismes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Ribera, Laura</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur "Le Dictionnaire des hérésies, des erreurs et des schismes " de l'abbé Pluquet.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>François-André-Adrien Pluquet</dc:subject>
+<dc:subject>hérésie</dc:subject>
+<dc:title>
+Dictionnaire des hérésies, des erreurs et des schismes (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64957</identifier>
+<datestamp>2015-01-13</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64957-souvenirs-de-fourviere-la-vision-de-notre-dame-de-fourviere-vehiculee-par-l-imagerie-pieuse-lyonnaise-du-xixe-siecle.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Radisson, Louise</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image étudiant l'évolution de l'image de piété lyonnaise consacrée à la dévotion pour Notre-Dame de Fourvière dans le cadre du renouveau marial du XIXe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Dévotion mariale</dc:subject>
+<dc:subject>iconographie religieuse</dc:subject>
+<dc:subject>Notre-Dame-de-Fourvière</dc:subject>
+<dc:title>
+Souvenirs de Fourvière : la vision de Notre-Dame de Fourvière véhiculée par l'imagerie pieuse lyonnaise du XIXe siècle
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64955</identifier>
+<datestamp>2015-01-13</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-43</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-8</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64955-la-bibliotheque-mistral-du-museon-arlaten-description-histoire-usages.pdf
+</dc:identifier>
+<dc:subject>Documents écrits</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire des bibliothèques</dc:subject>
+<dc:creator>Ruiz-Funes Torres, José</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur la « bibliothèque Mistral » du Museon Arlaten d’Arles. Fondée par Frédéric Mistral en 1896 et ouverte au public en 1899, cette institution muséale a été l’un des premiers musées ethnographiques de province, en même temps que la vitrine et le « palais » de ce mouvement de renouveau de la culture provençale qui, lancé par les sept de Font-Ségugne en 1854, reçut le nom de Félibrige.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Bibliothèque Mistral</dc:subject>
+<dc:subject>musée</dc:subject>
+<dc:subject>Museon Arlaten</dc:subject>
+<dc:title>
+« bibliothèque Mistral » du Museon Arlaten : description, histoire, usages (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64953</identifier>
+<datestamp>2015-01-13</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-11</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64953-quant-a-ce-feroce-desproges-les-chroniques-de-la-haine-ordinaire-une-emission-radiophonique-quotidiennement-hargneuse.pdf
+</dc:identifier>
+<dc:subject>Généralités</dc:subject>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Coutanson, Romane</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur "Les Chroniques de la haine ordinaire" de l’humoriste Pierre Desproges, une émission radiophonique diffusée de février à juin 1986.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Humoristes</dc:subject>
+<dc:subject>Pierre Desproges</dc:subject>
+<dc:title>
+« Quant à ce féroce Desproges… » Les Chroniques de la haine ordinaire, une émission radiophonique quotidiennement hargneuse ?
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64941</identifier>
+<datestamp>2015-01-08</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64941-le-tour-de-la-france-par-deux-enfants-de-g-bruno-et-ses-adaptations-cinematographiques-et-televisuelles.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Garin, Aline</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les quatre adaptations cinématographiques et télévisuelles du "Tour de France par deux enfants" de G.Bruno.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>adaptations cinématographiques</dc:subject>
+<dc:subject>adaptations télévisuelles</dc:subject>
+<dc:title>
+Tour de la France par deux enfants de G. Bruno et ses adaptations cinématographiques et télévisuelles (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64940</identifier>
+<datestamp>2015-01-08</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64940-le-college-de-la-trinite-histoire-d-une-bibliotheque-et-de-son-cabinet-de-curiosites.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bertin, Marion</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur l'histoire du Collège de la Trinité de la ville de Lyon (France), actuel Lycée Ampère, du XVIe au XVIIIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Jésuites</dc:subject>
+<dc:subject>Lyon</dc:subject>
+<dcterms:temporal>XVIe siècle-XVIIIe siècle</dcterms:temporal>
+<dc:title>
+Collège de la Trinité : Histoire d'une Bibliothèque et de son Cabinet de Curiosités (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64939</identifier>
+<datestamp>2015-01-08</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64939-censure-et-propagande-du-progres-du-nouvelliste-et-du-salut-public-au-commencement-de-la-premiere-guerre-mondiale.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Pinonos, Aurore</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur la censure et la propagande dans trois quotidiens lyonnais au commencement de la première guerre mondiale.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>censure</dc:subject>
+<dc:subject>Lyon</dc:subject>
+<dc:subject>presse</dc:subject>
+<dc:title>
+Censure et propagande du Progrès, du Nouvelliste et du Salut Public au commencement de la Première Guerre mondiale
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64938</identifier>
+<datestamp>2015-01-08</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64938-enquete-autour-d-un-recueil-de-trois-incunables-issu-de-la-bibliotheque-d-un-amateur.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Perrier, Morgane</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur la méthode et les outils permettant l'identification de trois incunables.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>bibliographie matérielle</dc:subject>
+<dc:subject>incunable</dc:subject>
+<dc:title>
+Enquête autour d'un recueil de trois incunables issu de la bibliothèque d'un amateur
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64937</identifier>
+<datestamp>2015-01-07</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-11</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64937-l-edition-associative-francaise-notes-pour-une-etude.pdf
+</dc:identifier>
+<dc:subject>Généralités</dc:subject>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bianchi, Cécilia</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l'édition indépendante et plus particulièrement sur l'édition associative en France.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dcterms:spatial>France</dcterms:spatial>
+<dc:subject>édition associative</dc:subject>
+<dc:title>
+édition associative française : notes pour une étude (L')
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64922</identifier>
+<datestamp>2014-12-22</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1445</setSpec>
+<setSpec>Theme-27:Theme-32</setSpec>
+<setSpec>Theme-41:Theme-42</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64922-gestion-numerique-des-archives-a-l-age-intermediaire-etat-de-l-art-et-application-au-sein-d-edf-pour-la-production-documentaire-du-nucleaire.pdf
+</dc:identifier>
+<dc:subject>Informatique documentaire</dc:subject>
+<dc:subject>Politique documentaire</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Serriere, Maud</dc:creator>
+<dc:description>
+Mémoire de master 2 PUN portant sur la gestion numérique des archives au sein de l'entreprise EDF.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>archivage numérique</dc:subject>
+<dc:subject>gestion électronique des documents (GED)</dc:subject>
+<dc:title>
+Gestion numérique des archives à l’âge intermédiaire : Etat de l’art et application au sein d’EDF pour la production documentaire du Nucléaire
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64920</identifier>
+<datestamp>2014-12-17</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64920-valmy-la-naissance-d-un-mythe-orleaniste-et-republicain-1830-1848.pdf
+</dc:identifier>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Meyer, Elise</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur la bataille de Valmy : sa sortie de l'oubli par Louis-Philippe Ier puis sa transformation en mythe par la IIIe République.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Bataille de Valmy</dc:subject>
+<dc:subject>Monarchie de Juillet</dc:subject>
+<dc:title>
+Valmy, la naissance d’un mythe orléaniste et républicain (1830-1848)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64919</identifier>
+<datestamp>2014-12-17</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-14</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64919-les-gazetiers-frondeurs-les-mazarinades-et-la-presse-d-information-en-1652-annexes.pdf
+</dc:identifier>
+<dc:subject>Economie de l'information</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bertrand, Marion</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les gazetiers sous la Fronde, les mazarinades et la presse d'information de cette époque.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64918</dcterms:isPartOf>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Gazetiers frondeurs : les mazarinades et la presse d'information en 1652 - annexes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64918</identifier>
+<datestamp>2014-12-17</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-14</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64918-les-gazetiers-frondeurs-les-mazarinades-et-la-presse-d-information-en-1652.pdf
+</dc:identifier>
+<dc:subject>Economie de l'information</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bertrand, Marion</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les gazetiers sous la Fronde, les mazarinades et la presse d'information de cette époque.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2014-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Gazette de France</dc:subject>
+<dc:subject>mazarinades</dc:subject>
+<dc:subject>presse</dc:subject>
+<dcterms:temporal>XVIIe siècle</dcterms:temporal>
+<dc:title>
+Gazetiers frondeurs : les mazarinades et la presse d'information en 1652 (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64830</identifier>
+<datestamp>2014-11-12</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64830-escalades-dans-les-alpes-1860-1869-d-edward-whymper-une-oeuvre-a-la-croisee-de-l-art-et-de-la-science-annexes.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Turpin-Hutter, Anne</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 1 Cultures de l'écrit et de l'image portant sur le récit d’Edward Whymper, "Escalades dans les Alpes 1860-1869".
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64688</dcterms:isPartOf>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Edward Whymper</dc:subject>
+<dc:subject>Gravure</dc:subject>
+<dc:subject>Littérature alpestre</dc:subject>
+<dc:title>
+Escalades dans les Alpes 1860-1869 d’Edward Whymper, une oeuvre à la croisée de l’art et de la science - Annexes
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64696</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64696-l-ecrit-protestant-en-cevennes-et-languedoc-au-temps-du-desert-1685-1760-une-religion-entre-oralites-et-lectures-illicites.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Jasserand, Mickaël</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image étudiant la question de l'écrit religieux clandestin dans les Cévennes et le Languedoc de 1685 à 1760 et notamment aux différentes pratiques de lecture dont il est l'objet ainsi qu'à son rôle dans le soulèvement des Camisards et l'instauration d'une nouvelle organisation du protestantisme après 1715.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>censure</dc:subject>
+<dc:subject>Protestantisme</dc:subject>
+<dcterms:temporal>XVIIe siècle</dcterms:temporal>
+<dcterms:temporal>XVIIIe siècle</dcterms:temporal>
+<dc:title>
+Écrit protestant en Cévennes et Languedoc au temps du Désert (1685-1760) : une religion entre oralités et lectures illicites (L')
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64695</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-34:Theme-35</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64695-la-valorisation-des-fonds-patrimoniaux-dans-les-bibliotheques-municipales.pdf
+</dc:identifier>
+<dc:subject>Accueil et médiation</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Quincy, Laureen</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur la valorisation des fonds patrimoniaux dans les bibliothèques municipales.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>bibliothèque municipale</dc:subject>
+<dc:subject>fonds patrimoniaux</dc:subject>
+<dc:subject>valorisation</dc:subject>
+<dc:title>
+Valorisation des fonds patrimoniaux dans les bibliothèques municipales (La)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64694</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64694-apogee-et-naufrage-d-un-mythe-republicain-les-representations-de-la-bataille-de-valmy-1892-1992.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Meyer, Elise</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les représentations de la bataille de Valmy (1892-1992).
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>histoire</dc:subject>
+<dc:subject>iconographie</dc:subject>
+<dc:title>
+Apogée et naufrage d’un mythe républicain : les représentations de la bataille de Valmy (1892-1992)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64693</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64693-les-batailles-entre-chretiens-et-ottomans-dans-la-mediterranee-du-xvie-siecle.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Courdier, Zoé</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur la production, la diffusion et les contenus des représentations des batailles entre chrétiens et Ottomans dans la Méditerranée du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>cartographie</dc:subject>
+<dc:subject>iconographie</dc:subject>
+<dc:subject>propagande</dc:subject>
+<dcterms:temporal>XVIe siècle</dcterms:temporal>
+<dc:title>
+Batailles entre chrétiens et Ottomans dans la Méditerranée du XVIe siècle (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64692</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64692-les-affiches-typographiques-du-theatre-des-celestins-au-debut-du-xxe-siecle.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Nouvet, Nelly</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur affiches typographiques du théâtre des Célestins au début du XXe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>affiches</dc:subject>
+<dc:subject>théâtre</dc:subject>
+<dc:subject>Typographie</dc:subject>
+<dcterms:temporal>XXe siècle</dcterms:temporal>
+<dc:title>
+Affiches typographiques du théâtre des Célestins au début du XXe siècle (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64691</identifier>
+<datestamp>2014-09-11</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64691-representations-televisuelles-des-pratiques-corporelles-des-femmes-feminin-present-et-aujourd-hui-la-vie-1980-1986.pdf
+</dc:identifier>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Pot, Laëtitia</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les représentations corporelles des femmes dans deux émissions de télévision : Féminin Présent et Aujourd'hui la vie 1980-1986.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>corps</dc:subject>
+<dc:subject>femmes</dc:subject>
+<dc:subject>télévision</dc:subject>
+<dcterms:temporal>XXe siècle</dcterms:temporal>
+<dc:title>
+Représentations télévisuelles des pratiques corporelles des femmes : Féminin Présent et Aujourd'hui la vie 1980-1986
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64690</identifier>
+<datestamp>2014-09-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64690-le-manuscrit-p-a-28-etude-d-un-recueil-de-textes-portant-sur-l-enfer-et-la-morale-et-de-son-parcours-jusqu-a-nos-jours.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Lefebvre, Hermine</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image ayant pour objet d'étude le manuscrit P.A. 28 conservé à la bibliothèque municipale de Lyon. Il comporte des textes traitant de l’enfer, comme la Vision de Tondale ou l’extrait de l’Horologium Sapientiae du mystique allemand Henri Suso, mais aussi des traités moraux, comme le Doctrinal Saulvage.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>littérature médiévale</dc:subject>
+<dc:subject>manuscrit</dc:subject>
+<dc:title>
+Manuscrit P.A. 28 : étude d’un recueil de textes portant sur l’enfer et la morale, et de son parcours jusqu’à nos jours (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64689</identifier>
+<datestamp>2014-09-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64689-mace-bonhomme-un-imprimeur-lyonnais-du-xvie-siecle.pdf
+</dc:identifier>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Huguet, Emeline</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur Macé Bonhomme, un imprimeur lyonnais du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dcterms:spatial>Lyon</dcterms:spatial>
+<dcterms:temporal>XVIe siècle</dcterms:temporal>
+<dc:title>
+Macé Bonhomme, un imprimeur lyonnais du XVIe siècle
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64688</identifier>
+<datestamp>2014-09-10</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64688-escalades-dans-les-alpes-1860-1869-d-edward-whymper-une-oeuvre-a-la-croisee-de-l-art-et-de-la-science.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Turpin-Hutter, Anne</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur le récit d’Edward Whymper, "Escalades dans les Alpes 1860-1869".
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Edward Whymper</dc:subject>
+<dc:subject>Gravure</dc:subject>
+<dc:subject>Littérature alpestre</dc:subject>
+<dc:title>
+Escalades dans les Alpes 1860-1869 d’Edward Whymper, une oeuvre à la croisée de l’art et de la science
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64687</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-1:Theme-3</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64687-les-murs-peints-des-premier-et-quatrieme-arrondissements-de-lyon-annexes.pdf
+</dc:identifier>
+<dc:subject>Bâtiments</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:creator>Girardot, Juliette</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les 400 murs peints de Lyon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64686</dcterms:isPartOf>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Murs peints des premier et quatrième arrondissements de Lyon - annexes (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64686</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-1:Theme-3</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64686-les-murs-peints-des-premier-et-quatrieme-arrondissements-de-lyon.pdf
+</dc:identifier>
+<dc:subject>Bâtiments</dc:subject>
+<dc:subject>Action culturelle</dc:subject>
+<dc:creator>Girardot, Juliette</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les 400 murs peints de Lyon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>
+Mur peint, fresque, Lyon, premier arrondissement, quatrième arrondissement, Croix-Rousse, identité, esthétique, publicité, muralistes, tourisme, représentation, société, histoire locale, patrimoine
+</dc:subject>
+<dc:title>
+Murs peints des premier et quatrième arrondissements de Lyon (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64685</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64685-le-regard-porte-sur-les-femmes-par-le-franciscain-jean-benedicti-a-travers-son-manuel-de-confession-la-somme-des-pechez-et-le-remede-d-icevx-1595-reed-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Humeau, Lucie</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 1 Cultures de l'écrit et de l'image portant sur le regard porté sur la femme à travers l'étude du manuel de confession de Jean Benedicti, franciscain de la seconde moitié du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64684</dcterms:isPartOf>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Regard porté sur les femmes par le franciscain Jean Benedicti à travers son manuel de confession La somme des pechez et le remede d'icevx... (1595, rééd.) - annexes (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64684</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64684-le-regard-porte-sur-les-femmes-par-le-franciscain-jean-benedicti-a-travers-son-manuel-de-confession-la-somme-des-pechez-et-le-remede-d-icevx-1595-reed.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Humeau, Lucie</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur le regard porté sur la femme à travers l'étude du manuel de confession de Jean Benedicti, franciscain de la seconde moitié du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>
+manuel de confession, histoire des femmes, XVIe siècle, péché, franciscain, Jean Benedicti
+</dc:subject>
+<dc:title>
+Regard porté sur les femmes par le franciscain Jean Benedicti à travers son manuel de confession La somme des pechez et le remede d'icevx... (1595, rééd.) (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64683</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64683-jean-temporal-libraire-de-la-renaissance-lyonnaise-1549-1571.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Rissoan, Bastien</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur Jean Temporal, imprimeur-libraire à Lyon de 1550 à 1571.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>
+imprimeur ; libraire ; Lyon ; XVIe siècle ; privilège d'imprimerie ; bibliographie matérielle ; typographie ;marque ; Renaissance ; Léon l'Africain ; poésie ; querelle de l'orthographe
+</dc:subject>
+<dc:title>
+Jean Temporal : libraire de la Renaissance lyonnaise (1549-1571)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64682</identifier>
+<datestamp>2014-09-09</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64682-les-editions-d-aristote-a-lyon-des-incunables-aux-opera-omnia-de-1549.pdf
+</dc:identifier>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Silvestre, Coline</dc:creator>
+<dc:description>
+Mémoire du Master 1 Cultures de l'écrit et de l'image portant sur les éditions d'Aristote à Lyon au 16e siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dcterms:spatial>Lyon</dcterms:spatial>
+<dcterms:spatial>XVIe siècle</dcterms:spatial>
+<dc:subject>Aristote (384-322)</dc:subject>
+<dc:subject>édition</dc:subject>
+<dc:subject>imprimerie lyonnaise</dc:subject>
+<dc:title>
+Éditions d'Aristote à Lyon : des incunables aux Opera omnia de 1549 (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64492</identifier>
+<datestamp>2014-05-27</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-1445</setSpec>
+<setSpec>Theme-10:Theme-14</setSpec>
+<setSpec>Theme-10:Theme-16</setSpec>
+<setSpec>Theme-41:Theme-46</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64492-developper-une-strategie-editoriale-pour-un-service-de-lecture-numerique.pdf
+</dc:identifier>
+<dc:subject>Economie de l'information</dc:subject>
+<dc:subject>Edition</dc:subject>
+<dc:subject>Ressources numériques</dc:subject>
+<dc:creator>Gandon, Clément</dc:creator>
+<dc:description>
+Mémoire de stage du Master 2 Publication numérique portant sur un projet de portail de vente de lecture numérique.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-01-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:subject>édition numérique</dc:subject>
+<dc:subject>lecture numérique</dc:subject>
+<dc:subject>plateforme d'intermédiation</dc:subject>
+<dc:subject>stratégie marketing</dc:subject>
+<dc:title>
+Développer une stratégie éditoriale pour un service de lecture numérique
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64181</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64181-les-mazarinades-d-anthyme-denis-cohon-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bertrand, Marion</dc:creator>
+<dc:description>
+Annexes du mémoire de Master 1 Cultures de l'écrit et de l'image portant sur les mazarinades d’Anthyme-Denis Cohon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64180</dcterms:isPartOf>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>Mazarinades d’Anthyme-Denis Cohon : Annexes (Les)</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64180</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64180-les-mazarinades-d-anthyme-denis-cohon.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Bertrand, Marion</dc:creator>
+<dc:description>
+Mémoire de Master 1 Cultures de l'écrit et de l'image portant sur les mazarinades d’Anthyme-Denis Cohon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-06-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Anthyme-Denis Cohon</dc:subject>
+<dc:subject>Fronde</dc:subject>
+<dc:subject>mazarinades</dc:subject>
+<dc:title>Mazarinades d’Anthyme-Denis Cohon (Les)</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64179</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64179-guerre-russo-japonaise-dans-les-images-de-couverture-du-supplement-illustre-du-petit-journal-1904-1905.pdf
+</dc:identifier>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Largier, Loïc</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur guerre russo-japonaise dans les images de couverture du Supplément illustré du Petit Journal.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>guerre russo-japonaise</dc:subject>
+<dc:subject>Petit Journal</dc:subject>
+<dc:subject>Supplément illustré</dc:subject>
+<dc:title>
+Guerre russo-japonaise dans les images de couverture du Supplément illustré du Petit Journal : 1904-1905
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64178</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64178-erasme-posthume-annexes.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Gaillardon, Paul</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l'édition posthume de l'oeuvre d'Érasme à travers l'Europe au long du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64177</dcterms:isPartOf>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>Érasme posthume : annexes</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64177</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64177-erasme-posthume-la-posterite-de-l-humaniste-dans-les-editions-du-seizieme-siecle.pdf
+</dc:identifier>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Gaillardon, Paul</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur l'édition posthume de l'oeuvre d'Érasme à travers l'Europe au long du XVIe siècle.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Érasme</dc:subject>
+<dc:subject>humanisme</dc:subject>
+<dc:subject>Jérôme Froben</dc:subject>
+<dc:subject>Opera omnia</dc:subject>
+<dc:subject>Sébastien Gryphe</dc:subject>
+<dc:title>
+Érasme posthume : la postérité de l’humaniste dans les éditions du seizième siècle
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64176</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64176-le-role-des-images-et-des-representations-dans-l-emergence-du-patrimoine-a-lyon-1800-1914-annexes.pdf
+</dc:identifier>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Desaintjean, Maryline</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur le rôle des images dans l'émergence du sentiment patrimonial dans le milieu intellectuel lyonnais au lendemain de la Révolution française.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64175</dcterms:isPartOf>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+rôle des images et des représentations dans l’émergence du patrimoine à Lyon (1800-1914) - Annexes (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64175</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-34:Theme-39</setSpec>
+<setSpec>Theme-41:Theme-45</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64175-le-role-des-images-et-des-representations-dans-l-emergence-du-patrimoine-a-lyon-1800-1914.pdf
+</dc:identifier>
+<dc:subject>Action culturelle</dc:subject>
+<dc:subject>Documents iconographiques</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:creator>Desaintjean, Maryline</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur le rôle des images dans l'émergence du sentiment patrimonial dans le milieu intellectuel lyonnais au lendemain de la Révolution française.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>images</dc:subject>
+<dc:subject>Lyon</dc:subject>
+<dc:subject>Patrimoine.</dc:subject>
+<dc:subject>représentations</dc:subject>
+<dc:title>
+Rôle des images et des représentations dans l’émergence du patrimoine à Lyon (1800-1914) (Le)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64174</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-41:Theme-43</setSpec>
+<setSpec>Theme-41:Theme-47</setSpec>
+<setSpec>Theme-7:Theme-9</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64174-les-publications-de-justus-van-effen-au-xviiie-siecle-conservees-a-la-bibliotheque-municipale-de-lyon.pdf
+</dc:identifier>
+<dc:subject>Documents écrits</dc:subject>
+<dc:subject>Collections patrimoniales</dc:subject>
+<dc:subject>Histoire du livre</dc:subject>
+<dc:creator>Munoz, Lucille</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur les publications de Justus Van Effen conservées à la bibliothèque municipale de Lyon.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-09-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>Anlgleterre</dc:subject>
+<dc:subject>France</dc:subject>
+<dc:subject>Histoire de l'édition</dc:subject>
+<dc:subject>Hollande</dc:subject>
+<dc:subject>Lyon</dc:subject>
+<dcterms:temporal>XVIIIe siècle</dcterms:temporal>
+<dc:title>
+Publications de Justus Van Effen au XVIIIe siècle conservées à la Bibliothèque municipale de Lyon (Les)
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Licence Creative Commons</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64173</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-11</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64173-monsieur-m-1968-une-mise-en-question-du-documentaire-historique-annexes.pdf
+</dc:identifier>
+<dc:subject>Généralités</dc:subject>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Mattrat, Iris</dc:creator>
+<dc:description>
+Annexes du mémoire du Master 2 Cultures de l'écrit et de l'image portant sur le documentaire "Monsieur M, 1968" et sur son utilisation originale des archives audiovisuelles.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:isPartOf>oai:bibnum.enssib.fr:64172</dcterms:isPartOf>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:title>
+Monsieur M, 1968, une mise en question du documentaire historique ? - Annexes
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:bibnum.enssib.fr:64172</identifier>
+<datestamp>2014-03-25</datestamp>
+<setSpec>Collection-2:Collection-92:Collection-94</setSpec>
+<setSpec>Theme-10:Theme-11</setSpec>
+<setSpec>Theme-10:Theme-15</setSpec>
+<setSpec>Theme-41:Theme-44</setSpec>
+</header>
+<metadata>
+<oai_qdc:qdc xmlns:oai_qdc="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.enssib.fr/bibliotheque-numerique/oai_qdc/ http://www.enssib.fr/bibliotheque-numerique/oai_qdc.xsd">
+<dc:identifier>
+http://www.enssib.fr/bibliotheque-numerique/documents/64172-monsieur-m-1968-une-mise-en-question-du-documentaire-historique.pdf
+</dc:identifier>
+<dc:subject>Généralités</dc:subject>
+<dc:subject>Médias</dc:subject>
+<dc:subject>Documents audiovisuels</dc:subject>
+<dc:creator>Mattrat, Iris</dc:creator>
+<dc:description>
+Mémoire du Master 2 Cultures de l'écrit et de l'image portant sur le documentaire "Monsieur M, 1968" et sur son utilisation originale des archives audiovisuelles.
+</dc:description>
+<dc:format>application/pdf</dc:format>
+<dcterms:issued>2013-08-01</dcterms:issued>
+<dc:language>fr</dc:language>
+<dc:publisher>enssib</dc:publisher>
+<dc:publisher>Université de Lyon - Université Lumière Lyon 2</dc:publisher>
+<dc:subject>1968</dc:subject>
+<dc:subject>archives</dc:subject>
+<dc:subject>Films documentaires</dc:subject>
+<dc:subject>Histoire</dc:subject>
+<dc:title>
+Monsieur M, 1968, une mise en question du documentaire historique ?
+</dc:title>
+<dc:type>text</dc:type>
+<dc:rights>Tous droits réservés</dc:rights>
+</oai_qdc:qdc>
+</metadata>
+</record>
+<resumptionToken completeListSize="205" cursor="0" expirationDate="2016-11-08T08:38:39+01:00">6</resumptionToken>
+</ListRecords>
+</OAI-PMH>
